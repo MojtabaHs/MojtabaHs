@@ -9,3 +9,11 @@
 ### ★ iOS/Swift development instructor at top educational centers of Iran: Tehran institute of technology for years, Sharif University, etc..
 
 [![PluralSightIQ](https://i.stack.imgur.com/Fu8hi.png)](https://stackoverflow.com/users/story/5623035#assessment-8126376)
+
+---
+
+# Featured Accounts
+
+**[StackOverflow](https://stackoverflow.com/users/story/5623035)** | **[Exercism](https://exercism.io/profiles/MojtabaHs)** | **[Linkedin](https://www.linkedin.com/in/mojtabahosseini)** |
+--- | --- | ---
+|[<img width="256" alt="StackOverflow.com" src="https://i.stack.imgur.com/cc0sZ.png">](https://stackoverflow.com/users/story/5623035)|[<img width="256" alt="exercism.io" src="https://i.stack.imgur.com/3e8H2.png">](https://exercism.io/profiles/MojtabaHs)|[<img width="256" alt="Linkedin" src="https://i.stack.imgur.com/QhUGl.png">](https://www.linkedin.com/in/mojtabahosseini)|
