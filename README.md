@@ -8,7 +8,12 @@
 
 ### ★ iOS/Swift development instructor at top educational centers of Iran: Tehran institute of technology for years, Sharif University, etc..
 
-[![PluralSightIQ](https://i.stack.imgur.com/Fu8hi.png)](https://stackoverflow.com/users/story/5623035#assessment-8126376)
+
+<p align="center">
+<a href="https://stackoverflow.com/users/story/5623035#assessment-8126376" target="_blank"> 
+  <img alt="PluralSightIQ" src="https://i.stack.imgur.com/Fu8hi.png" href="https://google.com">
+</a> 
+</p>
 
 ---
 
