@@ -25,6 +25,11 @@
 
 ---
 
+
+===
+
+
+
 # Experiences
 
 ## ‏[<img width="32" alt="Mobillet" src="https://i.stack.imgur.com/m2tb5.png">](https://saman.solutions) iOS Application Team Lead at [Mobillet](https://saman.solutions)
@@ -108,7 +113,7 @@ Teaching iOS Developments from ground up to the advanced level, No age limitatio
 
 
 
-## ‏[<img width="32" alt="Partners ICT Group Co. (Hamgaman Co.)" src="https://i.stack.imgur.com/ez5aP.png">](http://partners.ir) Mobile Software Architect Senior iOS Developer at [Partners ICT Group Co. (Hamgaman Co.)](http://partners.ir) 
+## ‏[<img width="32" alt="Partners ICT Group Co. (Hamgaman Co.)" src="https://i.stack.imgur.com/ez5aP.png">](http://partners.ir) Mobile Software Architect Senior iOS Developer at [Hamgaman](http://partners.ir) 
 <sub>Nov 2017 → Aug 2018</sub>
 
 ### ‣ Timeline of work:
@@ -148,7 +153,7 @@ Teaching iOS Developments from ground up to the advanced level, No age limitatio
 
 
 
-## ‏[<img width="32" alt="Hamloo" src="https://i.stack.imgur.com/T3pJ4.png">](https://hamloo.com) Senior iOS Developer And Mobile Software Architect [Hamloo](https://hamloo.com)
+## ‏[<img width="32" alt="Hamloo" src="https://i.stack.imgur.com/T3pJ4.png">](https://hamloo.com) Senior iOS Developer And Mobile Software Architect at [Hamloo](https://hamloo.com)
 <sub>Jun 2017 → Nov 2017</sub>
 
 ### ‣ Responsibilities:
@@ -165,7 +170,7 @@ Teaching iOS Developments from ground up to the advanced level, No age limitatio
 
 
 
-## ‏[<img width="32" alt="TripeMa" src="https://i.stack.imgur.com/89KSN.jpg">](https://tripema.com) Senior iOS Developer [TripeMa](https://tripema.com)
+## ‏[<img width="32" alt="TripeMa" src="https://i.stack.imgur.com/89KSN.jpg">](https://tripema.com) Senior iOS Developer at [TripeMa](https://tripema.com)
 <sub>Jul 2017 → Oct 2017</sub>
 
 ### ‣ Some of my responsibilities:
@@ -178,7 +183,7 @@ Teaching iOS Developments from ground up to the advanced level, No age limitatio
 
 
 
-## ‏[<img width="32" alt="Lahzenegar" src="https://i.stack.imgur.com/lHKXw.png">](https://lahzenegar.com) Senior Developer Technical Lead And Senior iOS Developer [Lahzenegar](https://lahzenegar.com)
+## ‏[<img width="32" alt="Lahzenegar" src="https://i.stack.imgur.com/lHKXw.png">](https://lahzenegar.com) Senior Developer Technical Lead And Senior iOS Developer at [Lahzenegar](https://lahzenegar.com)
 <sub>May 2016 → Jun 2017</sub>
 
 ### Timeline of work:
