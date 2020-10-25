@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="https://stackoverflow.com/users/story/5623035#assessment-8126376" target="_blank"> 
+<a href="https://stackoverflow.com/story/MojtabaHosseini#assessment-8126376" target="_blank"> 
   <img alt="PluralSightIQ" src="https://i.stack.imgur.com/Fu8hi.png" href="https://google.com">
 </a> 
 </p>
@@ -21,7 +21,7 @@
 
 **[StackOverflow](https://stackoverflow.com/story/MojtabaHosseini)** | **[Exercism](https://exercism.io/profiles/MojtabaHs)** | **[Linkedin](https://www.linkedin.com/in/mojtabahosseini)** |
 --- | --- | ---
-|[<img width="256" alt="StackOverflow.com" src="https://i.stack.imgur.com/cc0sZ.png">](https://stackoverflow.com/users/story/5623035)|[<img width="256" alt="exercism.io" src="https://i.stack.imgur.com/3e8H2.png">](https://exercism.io/profiles/MojtabaHs)|[<img width="256" alt="Linkedin" src="https://i.stack.imgur.com/QhUGl.png">](https://www.linkedin.com/in/mojtabahosseini)|
+|[<img width="256" alt="StackOverflow.com" src="https://i.stack.imgur.com/cc0sZ.png">](https://stackoverflow.com/story/MojtabaHosseini)|[<img width="256" alt="exercism.io" src="https://i.stack.imgur.com/3e8H2.png">](https://exercism.io/profiles/MojtabaHs)|[<img width="256" alt="Linkedin" src="https://i.stack.imgur.com/QhUGl.png">](https://www.linkedin.com/in/mojtabahosseini)|
 
 ---
 
