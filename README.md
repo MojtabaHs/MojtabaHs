@@ -1,6 +1,6 @@
 # About Me
 
-### ★ Worldwide 3rd in SwiftUI field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
+### ★ Worldwide 2rd in SwiftUI field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
 
 ### ★ Worldwide 3rd person who earns the [SwiftUI Gold Badge](https://stackoverflow.com/help/badges/9362/swiftui)
 
