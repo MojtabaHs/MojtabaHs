@@ -5,7 +5,7 @@ Please visit [**my Linkedin account**](https://www.linkedin.com/in/mojtabahossei
 
 ★ [𝗪𝗼𝗿𝗹𝗱𝘄𝗶𝗱𝗲 𝟮𝗻𝗱 in 𝗦𝘄𝗶𝗳𝘁𝗨𝗜](https://stackoverflow.com/tags/swiftui/topusers), [𝟮𝟮𝗻𝗱 in 𝗦𝘄𝗶𝗳𝘁](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=Swift) and [𝟯𝟵𝘁𝗵 𝗶𝗻 𝗶𝗢𝗦](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=iOS) field (based on the StackOverflow ranking).
 
-★ Reached out more than 𝟭𝟳.𝟱 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on the StackOverflow analytics report).
+★ Reached out more than 𝟭𝟳.𝟱 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on [the StackOverflow analytics](http://stackoverflow.com/users/5623035/mojtaba-hosseini)).
 
 ★ Experienced in the tech profession since 2006 in teams with diverse combinations of stacks, including tech, design, QA and product.
 
