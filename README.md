@@ -1,11 +1,11 @@
 ### Open to work
-Please visit [**my Linkedin account**](https://www.linkedin.com/in/mojtabahosseini/) to see my live resume and contact me there to discuss possible opportunities. [Download PDF version](/Mojtaba%20Hosseini%20-%20Resume.pdf)
+Please visit [**my LinkedIn account**](https://www.linkedin.com/in/mojtabahosseini/) to see my live resume and contact me there to discuss possible opportunities. [Download PDF version](/Mojtaba%20Hosseini%20-%20Resume.pdf)
 
 ### About Me
 
 ★ [𝗪𝗼𝗿𝗹𝗱𝘄𝗶𝗱𝗲 𝟮𝗻𝗱 in 𝗦𝘄𝗶𝗳𝘁𝗨𝗜](https://stackoverflow.com/tags/swiftui/topusers), [𝟮𝟭𝘀𝘁 in 𝗦𝘄𝗶𝗳𝘁](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=Swift) and [𝟯𝟴𝘁𝗵 𝗶𝗻 𝗶𝗢𝗦](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=iOS) field (based on the StackOverflow ranking).
 
-★ Reached out more than 𝟭𝟴.𝟮 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on [the StackOverflow analytics](http://stackoverflow.com/users/5623035/mojtaba-hosseini)).
+★ Reached out to more than 𝟭𝟴.𝟮 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on [the StackOverflow analytics](http://stackoverflow.com/users/5623035/mojtaba-hosseini)).
 
 ★ Experienced in the tech profession since 2006 in teams with diverse combinations of stacks, including tech, design, QA and product.
 
@@ -21,7 +21,7 @@ Please visit [**my Linkedin account**](https://www.linkedin.com/in/mojtabahossei
 
 # Featured Accounts
 
-**[StackOverflow](https://stackoverflow.com/users/5623035/mojtaba-hosseini)** | **[Exercism](https://exercism.io/profiles/MojtabaHs)** | **[Linkedin](https://www.linkedin.com/in/mojtabahosseini)** |
+**[StackOverflow](https://stackoverflow.com/users/5623035/mojtaba-hosseini)** | **[Exercism](https://exercism.io/profiles/MojtabaHs)** | **[LinkedIn](https://www.linkedin.com/in/mojtabahosseini)** |
 --- | --- | ---
 |[<img width="256" alt="StackOverflow.com" src="https://i.sstatic.net/cc0sZ.png">](https://stackoverflow.com/users/5623035/mojtaba-hosseini)|[<img width="256" alt="exercism.io" src="https://i.sstatic.net/3e8H2.png">](https://exercism.io/profiles/MojtabaHs)|[<img width="256" alt="Linkedin" src="https://i.sstatic.net/QhUGl.png">](https://www.linkedin.com/in/mojtabahosseini)|
 
