@@ -1,5 +1,5 @@
 ### Open to work
-Please visit [**my Linkedin account**](https://www.linkedin.com/in/mojtabahosseini/) to see my resume and contact me there to discuss possible opportunities.
+Please visit [**my Linkedin account**](https://www.linkedin.com/in/mojtabahosseini/) to see my live resume and contact me there to discuss possible opportunities. [Download PDF version](/Mojtaba%20Hosseini%20-%20Resume.pdf)
 
 ### About Me
 
