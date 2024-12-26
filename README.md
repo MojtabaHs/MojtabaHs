@@ -1,6 +1,3 @@
-### Open to work
-Please visit [**my LinkedIn account**](https://www.linkedin.com/in/mojtabahosseini/) to see my live resume and contact me there to discuss possible opportunities. [Download PDF version](/Mojtaba%20Hosseini%20-%20Resume.pdf)
-
 ### About Me
 
 ★ [𝗪𝗼𝗿𝗹𝗱𝘄𝗶𝗱𝗲 𝟮𝗻𝗱 in 𝗦𝘄𝗶𝗳𝘁𝗨𝗜](https://stackoverflow.com/tags/swiftui/topusers), [𝟮𝟭𝘀𝘁 in 𝗦𝘄𝗶𝗳𝘁](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=Swift) and [𝟯𝟯𝗿𝗱 𝗶𝗻 𝗶𝗢𝗦](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=iOS) field (based on the StackOverflow ranking).
@@ -36,12 +33,3 @@ Please visit [**my LinkedIn account**](https://www.linkedin.com/in/mojtabahossei
 |[<img width="32" alt="T1 (Luxo)" src="https://i.sstatic.net/4uor7.png">](https://ibbi.ir/en)<br><sub>T1 (Luxo)</sub><br><sub>**Software Architect And Team Lead**</sub>|[<img width="32" alt="Hamloo" src="https://i.sstatic.net/T3pJ4.png">](https://hamloo.com)<br><sub>Hamloo</sub><br><sub>**Senior iOS Developer**</sub>|[<img width="32" alt="TripeMa" src="https://i.sstatic.net/89KSN.jpg">](https://tripema.com)<br><sub>TripeMa</sub><br><sub>**Senior iOS Developer**</sub>
 |[<img width="32" alt="Lahzenegar" src="https://i.sstatic.net/lHKXw.png">](https://lahzenegar.com)<br><sub>Lahzenegar</sub><br><sub>**Technical Lead / Senior iOS Developer**</sub>|[<img width="32" alt="Laitec" src="https://i.sstatic.net/lobw1.png">](https://laitec.ir)<br><sub>Laitec</sub><br><sub>**iOS Development Instructor**</sub>|[<img width="32" alt="Sirjangostar Global Group" src="https://i.sstatic.net/XrrgN.jpg">](https://sirjangostar.com)<br><sub>Sirjangostar Global Group</sub><br><sub>**Chief Information Technology Officer**</sub>
 | &nbsp; | &nbsp; | &nbsp;
-
----
-
-### 🌟 Support
-Show your support and [**Buy me a coffee ☕️**](https://www.buymeacoffee.com/MojtabaHs).
-
-[<img alt="By Me A Coffee Button" src="https://i.sstatic.net/bLOMF.png">](https://www.buymeacoffee.com/MojtabaHs)
-
-There are also ways to [**BE MY SPONSOR**](https://www.buymeacoffee.com/MojtabaHs/membership) and have an active collaboration together. 💪🏻
