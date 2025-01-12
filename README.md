@@ -2,7 +2,7 @@
 
 ★ [𝗪𝗼𝗿𝗹𝗱𝘄𝗶𝗱𝗲 𝟮𝗻𝗱 in 𝗦𝘄𝗶𝗳𝘁𝗨𝗜](https://stackoverflow.com/tags/swiftui/topusers), [𝟮𝟭𝘀𝘁 in 𝗦𝘄𝗶𝗳𝘁](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=Swift) and [𝟯𝟯𝗿𝗱 𝗶𝗻 𝗶𝗢𝗦](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=iOS) field (based on the StackOverflow ranking).
 
-★ Reached out to more than 𝟭𝟵.𝟲𝗠 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on [the StackOverflow analytics](http://stackoverflow.com/users/5623035/mojtaba-hosseini)).
+★ Reached out to more than 𝟮𝟬𝗠 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on [the StackOverflow analytics](http://stackoverflow.com/users/5623035/mojtaba-hosseini)).
 
 ★ Experienced in the tech profession since 2006 in teams with diverse combinations of stacks, including tech, design, QA and product.
 
@@ -10,7 +10,7 @@
 
 ★ Proven ability to lead and motivate cross-functional teams, resulting in high employee engagement and increased productivity.
 
-★ Contributed to many open-source GitHub projects with 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟮𝟱𝗞 𝘀𝘁𝗮𝗿𝘀, (Both as the owner and as a contributor in total)
+★ Contributed to many open-source GitHub projects with 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟯𝟬𝗞 𝘀𝘁𝗮𝗿𝘀, (Both as the owner and as a contributor in total)
 
 ★ Mentored 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟭𝗞 𝗼𝗳 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹𝘀 in person and online in the diverse fields of development.
 
