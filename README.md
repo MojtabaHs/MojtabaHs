@@ -2,17 +2,17 @@
 
 ★ [𝗪𝗼𝗿𝗹𝗱𝘄𝗶𝗱𝗲 𝟮𝗻𝗱 in 𝗦𝘄𝗶𝗳𝘁𝗨𝗜](https://stackoverflow.com/tags/swiftui/topusers), [𝟭𝟬𝘁𝗵 in 𝗦𝘄𝗶𝗳𝘁](https://stackoverflow.com/tags/swift/topusers) and [𝟯𝟬𝘁𝗵 𝗶𝗻 𝗶𝗢𝗦](https://data.stackexchange.com/stackoverflow/query/1813617/user-rank-for-a-specific-tag?UserId=5623035&TagName=iOS) field (based on the StackOverflow ranking).
 
-★ Reached out to more than 𝟮𝟮 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 by helping them solve their problems (based on [the StackOverflow analytics](http://stackoverflow.com/users/5623035/mojtaba-hosseini)).
+★ Helped more than 𝟮𝟮 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 solve their technical challenges through StackOverflow (based on [platform analytics](https://stackoverflow.com/users/5623035/mojtaba-hosseini#:~:text=people%20reached)).
 
-★ Experienced in the tech profession since 2006 in teams with diverse combinations of stacks, including tech, design, QA and product.
+★ Experienced software developer 𝘀𝗶𝗻𝗰𝗲 𝟮𝟬𝟬𝟲, with a strong focus on mobile and iOS development 𝘀𝗶𝗻𝗰𝗲 𝟮𝟬𝟭𝟱.
 
-★ Excellent communication skills demonstrated through successful stakeholder and team management.
+★ Excellent communication skills demonstrated through successful 𝘀𝘁𝗮𝗸𝗲𝗵𝗼𝗹𝗱𝗲𝗿 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 and presenting technical concepts to both 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 and 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 audiences.
 
-★ Proven ability to lead and motivate cross-functional teams, resulting in high employee engagement and increased productivity.
+★ Experienced in leading teams of different sizes, from 𝗶𝗢𝗦-𝗼𝗻𝗹𝘆 teams to 𝗳𝘂𝗹𝗹 𝗰𝗿𝗼𝘀𝘀-𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 teams spanning 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗽𝗿𝗼𝗱𝘂𝗰𝘁, and 𝗱𝗲𝘀𝗶𝗴𝗻.
 
-★ Contributed to many open-source GitHub projects with 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟯𝟬𝗞 𝘀𝘁𝗮𝗿𝘀, (Both as the owner and as a contributor in total)
+★ Contributor to numerous [open-source GitHub projects](http://github.com/mojtabahs) with 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟯𝟬𝗞 𝘀𝘁𝗮𝗿𝘀 in total, both as the owner and contributor.
 
-★ Mentored 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟭𝗞 𝗼𝗳 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹𝘀 in person and online in the diverse fields of development.
+★ Mentored 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝟭𝗞 𝗶𝗻𝗱𝗶𝘃𝗶𝗱𝘂𝗮𝗹𝘀 in iOS development through platforms and organizations such as [Exercism](https://exercism.org/profiles/mojtabahs), [MFT](https://mftplus.com), [Sharif University](https://pedu.sharif.edu/events/details/1067) TSC, and others.
 
 ---
 
